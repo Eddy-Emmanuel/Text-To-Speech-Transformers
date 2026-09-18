@@ -122,4 +122,4 @@ on the command line.
 
 ## License
 
-Add a license of your choice (e.g. MIT) — see `LICENSE`.
+MIT
