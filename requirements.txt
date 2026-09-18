@@ -4,7 +4,7 @@ transformers>=4.41.0
 datasets>=2.19.0
 accelerate>=0.30.0
 speechbrain>=1.0.0
-soundfile>=0.12.1   # used by both the notebook and train.py to read/write audio
+soundfile>=0.12.1   
 sentencepiece>=0.1.91
 huggingface_hub>=0.23.0
 jupyterlab
